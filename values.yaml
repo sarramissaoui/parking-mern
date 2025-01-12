@@ -1,0 +1,8 @@
+auth:
+  enabled: true
+  rootPassword: sarra
+  username: sarra
+  password: sarra
+  database: sarra
+persistence:
+  size: 10Gi
